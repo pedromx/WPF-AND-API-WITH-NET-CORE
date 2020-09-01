@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Sd7a4qCQaZRMr4064NCN2i/vS0NgNsP+5jTKJySQuiqkdHOqzEWx8339mbEpwkROwD786vMugY6ir2EPVm3Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xipe.A-5CG9055LFX\\source\\repos\\Mecalux.Ex\\PROJ.UI\\PROJ.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xipe.A-5CG9055LFX\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\xipe.A-5CG9055LFX\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\xipe.A-5CG9055LFX\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
